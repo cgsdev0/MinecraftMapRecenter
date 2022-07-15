@@ -1,0 +1,10 @@
+name: MapRecenter
+version: 0.0.69
+author: cgs
+main: dev.cgs.maprecenter.MapRecenter
+api-version: 1.17
+commands:
+  recenter:
+    description: Recenters a map on your current x / z.
+    usage: /recenter
+    permission: recenter.use
